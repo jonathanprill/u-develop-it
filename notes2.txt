@@ -1,3 +1,11 @@
+RESUMING PROJECT
+mysql -u root -p
+USE databaseName
+SOURCE db/schema.sql
+SOURCE db/seeds.sql
+SELECT * FROM tableName
+
+
 $ mysql -u root -p
 Enter password: ************
 Welcome to the MySQL monitor.  Commands end with ; or \g.
